@@ -1,6 +1,6 @@
-## pearOS Calamares Config
+## Pulsar OS Calamares Config
 
-**Calamares** configuration for the **pearOS NiceC0re** distribution, used as the graphical installer for the live system.
+**Calamares** configuration for the **Pulsar OS** distribution, used as the graphical installer for the live system.
 
 ### Project structure
 
@@ -64,4 +64,3 @@ Make sure the `slide1.png` file exists in the branding directory when building t
 - Change default groups, password policy, and user shell in `users.conf`.
 - Tweak colors and overall look & feel in `stylesheet.qss`.
 - Replace or extend slideshow images (`slide1.png` … `slide6.png`) and/or their behavior via `show.qml`.
-
